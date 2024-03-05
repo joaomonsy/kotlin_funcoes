@@ -29,7 +29,7 @@ fun main() {
     }
 
     // Calcula a área do losango
-    val area = DiagM * Diagmenor / 2
+    var area = DiagM * Diagmenor / 2
 
     // Exibe a área calculada
     println("A área do losango é: $area ")
