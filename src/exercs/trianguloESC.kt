@@ -29,7 +29,7 @@ fun main() {
     }
 
     // Calcula a área do triangulo
-    val area = base * altura / 2
+    var area = base * altura / 2
 
     // Exibe a área calculada
     println("A área do triângulo escaleno é: $area")
