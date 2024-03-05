@@ -17,7 +17,7 @@ fun main() {
     }
 
     // Calcula a área da circunferencia
-    val area = Math.PI * raio * raio
+    var area = Math.PI * raio * raio
 
     // Exibe a área calculada
     println("A área da circunferencia é: $area")
