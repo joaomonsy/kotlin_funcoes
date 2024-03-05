@@ -17,7 +17,7 @@ fun main() {
     }
 
     // Calcula a área do triangulo
-    val area = lado * lado * sqrt(3.0) / 4
+    var area = lado * lado * sqrt(3.0) / 4
 
     // Exibe a área calculada
     println("A área do triângulo equilátero é: $area")
