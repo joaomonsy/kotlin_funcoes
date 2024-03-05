@@ -25,7 +25,7 @@ fun main() {
     }
 
     // Calcula a área do retângulo
-    val area = base * altura
+    var area = base * altura
 
     // Exibe a área calculada
     println("A área do retângulo é: $area")
