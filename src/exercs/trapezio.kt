@@ -41,7 +41,7 @@ fun main() {
     }
 
     // Calcula a área do trapézio
-    val area = (baseM + baseMenor) * altura / 2
+    var area = (baseM + baseMenor) * altura / 2
 
     // Exibe a área calculada
     println("A área do trapézio é: $area ")
